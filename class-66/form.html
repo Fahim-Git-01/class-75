@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="" id="id">
+        <h1>Student form </h1>
+        Email <br>
+        <input type="text" name="email" value="abc@gmail.com"> <br>
+
+        <button type="submit">submit</button>
+    </form>
+    
+
+
+
+    <script>
+        class value{
+            constructor(email){
+                this.form=document.querySelector(email);
+                this.form.addEventListenner("submit",(e){
+                    
+                })
+
+            }
+        }
+    </script>
+    <script>
+        new value("id");
+    </script>
+</body>
+</html>

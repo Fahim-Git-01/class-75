@@ -1,0 +1,35 @@
+[10-May-2026 08:52:54 Europe/Berlin] PHP Warning:  Undefined variable $user in F:\php\xampp\htdocs\class-73\error\error.php on line 16
+[10-May-2026 08:52:55 Europe/Berlin] PHP Warning:  Undefined variable $user in F:\php\xampp\htdocs\class-73\error\error.php on line 16
+[10-May-2026 08:52:55 Europe/Berlin] PHP Warning:  Undefined variable $user in F:\php\xampp\htdocs\class-73\error\error.php on line 16
+[10-May-2026 08:53:02 Europe/Berlin] PHP Warning:  Undefined variable $user in F:\php\xampp\htdocs\class-73\error\error.php on line 16
+[10-May-2026 08:53:05 Europe/Berlin] PHP Warning:  Undefined variable $user in F:\php\xampp\htdocs\class-73\error\error.php on line 16
+[10-May-2026 08:53:19 Europe/Berlin] PHP Warning:  Undefined variable $user in F:\php\xampp\htdocs\class-73\error\error.php on line 16
+[10-May-2026 08:53:20 Europe/Berlin] PHP Warning:  Undefined variable $user in F:\php\xampp\htdocs\class-73\error\error.php on line 16
+[10-May-2026 08:53:20 Europe/Berlin] PHP Warning:  Undefined variable $user in F:\php\xampp\htdocs\class-73\error\error.php on line 16
+[10-May-2026 08:53:20 Europe/Berlin] PHP Warning:  Undefined variable $user in F:\php\xampp\htdocs\class-73\error\error.php on line 16
+[10-May-2026 08:53:20 Europe/Berlin] PHP Warning:  Undefined variable $user in F:\php\xampp\htdocs\class-73\error\error.php on line 16
+[10-May-2026 08:53:20 Europe/Berlin] PHP Warning:  Undefined variable $user in F:\php\xampp\htdocs\class-73\error\error.php on line 16
+[10-May-2026 08:53:21 Europe/Berlin] PHP Warning:  Undefined variable $user in F:\php\xampp\htdocs\class-73\error\error.php on line 16
+[10-May-2026 08:53:21 Europe/Berlin] PHP Warning:  Undefined variable $user in F:\php\xampp\htdocs\class-73\error\error.php on line 16
+[10-May-2026 08:53:21 Europe/Berlin] PHP Warning:  Undefined variable $user in F:\php\xampp\htdocs\class-73\error\error.php on line 16
+[10-May-2026 08:53:21 Europe/Berlin] PHP Warning:  Undefined variable $user in F:\php\xampp\htdocs\class-73\error\error.php on line 16
+[10-May-2026 08:53:21 Europe/Berlin] PHP Warning:  Undefined variable $user in F:\php\xampp\htdocs\class-73\error\error.php on line 16
+[10-May-2026 08:53:28 Europe/Berlin] PHP Warning:  Undefined variable $user in F:\php\xampp\htdocs\class-73\error\error.php on line 16
+[10-May-2026 08:53:28 Europe/Berlin] PHP Warning:  Undefined variable $user in F:\php\xampp\htdocs\class-73\error\error.php on line 16
+[10-May-2026 08:53:29 Europe/Berlin] PHP Warning:  Undefined variable $user in F:\php\xampp\htdocs\class-73\error\error.php on line 16
+[10-May-2026 08:53:29 Europe/Berlin] PHP Warning:  Undefined variable $user in F:\php\xampp\htdocs\class-73\error\error.php on line 16
+[10-May-2026 08:53:51 Europe/Berlin] PHP Warning:  Undefined variable $user in F:\php\xampp\htdocs\class-73\error\error.php on line 16
+[10-May-2026 08:53:51 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function get() in F:\php\xampp\htdocs\class-73\error\error.php:17
+Stack trace:
+#0 {main}
+  thrown in F:\php\xampp\htdocs\class-73\error\error.php on line 17
+[10-May-2026 08:53:55 Europe/Berlin] PHP Warning:  Undefined variable $user in F:\php\xampp\htdocs\class-73\error\error.php on line 16
+[10-May-2026 08:53:55 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function get() in F:\php\xampp\htdocs\class-73\error\error.php:17
+Stack trace:
+#0 {main}
+  thrown in F:\php\xampp\htdocs\class-73\error\error.php on line 17
+[10-May-2026 08:53:59 Europe/Berlin] PHP Warning:  Undefined variable $user in F:\php\xampp\htdocs\class-73\error\error.php on line 16
+[10-May-2026 08:53:59 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function get() in F:\php\xampp\htdocs\class-73\error\error.php:17
+Stack trace:
+#0 {main}
+  thrown in F:\php\xampp\htdocs\class-73\error\error.php on line 17

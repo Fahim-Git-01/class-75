@@ -1,0 +1,6 @@
+create table students
+id int unsigned primary key
+name varchar (100)
+email varchar unique
+address varchar (255)
+is_active bool
