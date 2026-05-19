@@ -1,0 +1,508 @@
+
+B-8@DESKTOP-N7LKD4E MINGW64 ~
+$ cd /F/php/xampp/htdocs
+
+B-8@DESKTOP-N7LKD4E MINGW64 /F/php/xampp/htdocs (master)
+$ git config user.name
+Meghla Cloudy
+
+B-8@DESKTOP-N7LKD4E MINGW64 /F/php/xampp/htdocs (master)
+$ git config user.name "Fahim-Git-01"
+
+B-8@DESKTOP-N7LKD4E MINGW64 /F/php/xampp/htdocs (master)
+$ git config user.name
+Fahim-Git-01
+
+B-8@DESKTOP-N7LKD4E MINGW64 /F/php/xampp/htdocs (master)
+$ git config user.email "faysalhossan191998@gmail.com"
+
+B-8@DESKTOP-N7LKD4E MINGW64 /F/php/xampp/htdocs (master)
+$ git config user.name
+Fahim-Git-01
+
+B-8@DESKTOP-N7LKD4E MINGW64 /F/php/xampp/htdocs (master)
+$ git config user.email
+faysalhossan191998@gmail.com
+
+B-8@DESKTOP-N7LKD4E MINGW64 /F/php/xampp/htdocs (master)
+$ git.add.
+bash: git.add.: command not found
+
+B-8@DESKTOP-N7LKD4E MINGW64 /F/php/xampp/htdocs (master)
+$ git add .
+warning: in the working copy of 'class-70 image validation, file read-write, home task
+/students.csv', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-70 image validation, file read-write, home task
+/test.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-70/text.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-70/uploads/students.csv', LF will be replaced b
+y CRLF the next time Git touches it
+warning: in the working copy of 'class-71/data_input/home-task/files/student.csv', LF
+will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-72 php-mailer, composer setup/class-72 php-mailer, composer setup/composer.json', LF will be replaced by CRLF the next time Git touch
+es it
+warning: in the working copy of 'class-72 php-mailer, composer setup/class-72 php-mailer, composer setup/composer.lock', LF will be replaced by CRLF the next time Git touch
+es it
+warning: in the working copy of 'class-72 php-mailer, composer setup/class-72 php-mailer, composer setup/vendor/autoload.php', LF will be replaced by CRLF the next time Git
+ touches it
+warning: in the working copy of 'class-72 php-mailer, composer setup/class-72 php-mailer, composer setup/vendor/composer/ClassLoader.php', LF will be replaced by CRLF the n
+ext time Git touches it
+warning: in the working copy of 'class-72 php-mailer, composer setup/class-72 php-mailer, composer setup/vendor/composer/InstalledVersions.php', LF will be replaced by CRLF
+ the next time Git touches it
+warning: in the working copy of 'class-72 php-mailer, composer setup/class-72 php-mailer, composer setup/vendor/composer/LICENSE', LF will be replaced by CRLF the next time
+ Git touches it
+warning: in the working copy of 'class-72 php-mailer, composer setup/class-72 php-mailer, composer setup/vendor/composer/autoload_classmap.php', LF will be replaced by CRLF
+ the next time Git touches it
+warning: in the working copy of 'class-72 php-mailer, composer setup/class-72 php-mailer, composer setup/vendor/composer/autoload_namespaces.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-72 php-mailer, composer setup/class-72 php-mailer, composer setup/vendor/composer/autoload_psr4.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-72 php-mailer, composer setup/class-72 php-mailer, composer setup/vendor/composer/autoload_real.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-72 php-mailer, composer setup/class-72 php-mailer, composer setup/vendor/composer/autoload_static.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-72 php-mailer, composer setup/class-72 php-mailer, composer setup/vendor/composer/installed.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-72 php-mailer, composer setup/class-72 php-mailer, composer setup/vendor/composer/installed.php', LF will be replaced by CRLF the nex
+t time Git touches it
+warning: in the working copy of 'class-72 php-mailer, composer setup/class-72 php-mail
+er, composer setup/vendor/composer/platform_check.php', LF will be replaced by CRLF the next time Git touches it
+warning: adding embedded git repository: class-72 php-mailer, composer setup/class-72 php-mailer, composer setup/vendor/phpmailer/phpmailer
+hint: You've added another git repository inside your current repository.
+hint: Clones of the outer repository will not contain the contents of
+hint: the embedded repository and will not know how to obtain it.
+hint: If you meant to add a submodule, use:
+hint:
+hint:   git submodule add <url> class-72 php-mailer, composer setup/class-72 php-maile
+r, composer setup/vendor/phpmailer/phpmailer
+hint:
+hint: If you added this path by mistake, you can remove it from the
+hint: index with:
+hint:
+hint:   git rm --cached class-72 php-mailer, composer setup/class-72 php-mailer, compo
+ser setup/vendor/phpmailer/phpmailer
+hint:
+hint: See "git help submodule" for more information.
+hint: Disable this message with "git config set advice.addEmbeddedRepo false"
+warning: in the working copy of 'class-73/error/error.log', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/composer.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/composer.lock', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/autoload.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/composer/ClassLoader.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/composer/InstalledVersions.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/composer/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/composer/autoload_classmap.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/composer/autoload_namespaces.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/composer/autoload_psr4.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/composer/autoload_real.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/composer/autoload_static.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/composer/installed.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/composer/installed.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/composer/platform_check.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/COMMITMENT', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/SECURITY.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/SMTPUTF8.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/VERSION', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/composer.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/get_oauth_token.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-af.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-ar.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-as.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-az.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-ba.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-be.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-bg.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-bn.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-ca.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-cs.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-da.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-de.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-el.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-eo.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-es.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-et.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-fa.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-fi.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-fo.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-fr.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-gl.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-he.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-hi.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-hr.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-hu.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-hy.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-id.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-it.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-ja.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-ka.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-ko.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-ku.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-lt.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-lv.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-mg.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-mn.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-ms.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-nb.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-nl.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-pl.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-pt.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-pt_br.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-ro.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-ru.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-si.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-sk.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-sl.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-sr.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-sr_latn.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-sv.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-tl.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-tr.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-uk.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-ur.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-vi.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-zh.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-zh_cn.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/src/DSNConfigurator.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/src/Exception.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/src/OAuth.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/src/OAuthTokenProvider.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/src/PHPMailer.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/src/POP3.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'class-74/vendor/phpmailer/phpmailer/src/SMTP.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'composer/composer.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'composer/composer.lock', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'composer/vendor/autoload.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'composer/vendor/composer/ClassLoader.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'composer/vendor/composer/InstalledVersions.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'composer/vendor/composer/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'composer/vendor/composer/autoload_classmap.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'composer/vendor/composer/autoload_namespaces.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'composer/vendor/composer/autoload_psr4.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'composer/vendor/composer/autoload_real.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'composer/vendor/composer/autoload_static.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'composer/vendor/composer/installed.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'composer/vendor/composer/installed.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'composer/vendor/composer/platform_check.php', LF will be replaced by CRLF the next time Git touches it
+warning: adding embedded git repository: composer/vendor/phpmailer/phpmailer
+
+B-8@DESKTOP-N7LKD4E MINGW64 /F/php/xampp/htdocs (master)
+$ git commit -m "first upload"
+[master (root-commit) f4b5ff1] first upload
+ 212 files changed, 17614 insertions(+)
+ create mode 100644 1294943/largest_numeber.php
+ create mode 100644 1294943/prime_number.php
+ create mode 100644 1294943/resut.php
+ create mode 100644 class-58/basic.php
+ create mode 100644 class-58/datatype.php
+ create mode 100644 class-60/frist_page.php
+ create mode 100644 class-60/fun-return-type.php
+ create mode 100644 class-60/function-return.php
+ create mode 100644 class-60/function.php
+ create mode 100644 class-60/second-page.php
+ create mode 100644 class-61/array-type.php
+ create mode 100644 class-61/array.php
+ create mode 100644 class-62/array.php
+ create mode 100644 class-62/traversing.php
+ create mode 100644 class-64/child_class.php
+ create mode 100644 class-64/scope.php
+ create mode 100644 class-65/abstruct-class.php
+ create mode 100644 class-65/class-getter-setter.php
+ create mode 100644 class-65/interface.php
+ create mode 100644 class-65/new-class-getter-setter copy.php
+ create mode 100644 class-65/trait.php
+ create mode 100644 class-66/.vscode/settings.json
+ create mode 100644 class-66/form.html
+ create mode 100644 class-66/regexp.php
+ create mode 100644 class-66/stactic-variable.php
+ create mode 100644 class-66/string.php
+ create mode 100644 class-68/image/checkbox.php
+ create mode 100644 class-68/image/image_upload.php
+ create mode 100644 class-68/image/upload/a-man-walks-alone-across-a-vast-flat-landscape-towards-the-setting-sun-photo.jpg
+ create mode 100644 class-68/prime_number.php
+ create mode 100644 class-68/prime_number2.php
+ create mode 100644 class-68/student-score.php
+ create mode 100644 class-68/student_socre2.php
+ create mode 100644 class-70 image validation, file read-write, home task/csv-file.php
+ create mode 100644 class-70 image validation, file read-write, home task/file.php
+ create mode 100644 class-70 image validation, file read-write, home task/files/test.txt
+ create mode 100644 class-70 image validation, file read-write, home task/home-task/create.php
+ create mode 100644 class-70 image validation, file read-write, home task/home-task/files/student.class.php
+ create mode 100644 class-70 image validation, file read-write, home task/home-task/files/student.csv
+ create mode 100644 class-70 image validation, file read-write, home task/home-task/list.php
+ create mode 100644 class-70 image validation, file read-write, home task/home-task/search.php
+ create mode 100644 class-70 image validation, file read-write, home task/image-upload.php
+ create mode 100644 class-70 image validation, file read-write, home task/students.csv
+ create mode 100644 class-70 image validation, file read-write, home task/test.txt
+ create mode 100644 class-70 image validation, file read-write, home task/uploads/ASI-ANI-AGI-types-of-AI.jpg
+ create mode 100644 class-70 image validation, file read-write, home task/uploads/Image.png
+ create mode 100644 class-70 image validation, file read-write, home task/uploads/eCommerce-Website-Components-photo.jpg
+ create mode 100644 class-70 image validation, file read-write, home task/uploads/image200x200.png
+ create mode 100644 class-70/file.php
+ create mode 100644 class-70/text.txt
+ create mode 100644 class-70/uploads/csv-file.php
+ create mode 100644 class-70/uploads/students.csv
+ create mode 100644 class-71.zip
+ create mode 100644 class-71/Class-69/image-uplode.php
+ create mode 100644 class-71/Class-69/search.php
+ create mode 100644 class-71/Class-69/uploads/202.png
+ create mode 100644 class-71/Class-69/uploads/Screenshot (1).png
+ create mode 100644 class-71/Class-69/uploads/Screenshot 2026-03-15 154202.png
+ create mode 100644 class-71/Class-69/uploads/WhatsApp Image 2025-11-04 at 13.33.58_43b45f32.jpg
+ create mode 100644 class-71/Class-69/uploads/WhatsApp Image 2026-04-16 at 5.47.36 PM.jpeg
+ create mode 100644 class-71/Class-69/uploads/a-man-walks-alone-across-a-vast-flat-landscape-towards-the-setting-sun-photo.jpg
+ create mode 100644 class-71/Class-69/uploads/download (1).jpg
+ create mode 100644 class-71/Class-69/uploads/mobile.jpg
+ create mode 100644 class-71/Class-69/uploads/mobile2.jpg
+ create mode 100644 class-71/data_input/home-task/authentication/authentication.php
+ create mode 100644 class-71/data_input/home-task/authentication/login.php
+ create mode 100644 class-71/data_input/home-task/authentication/logout.php
+ create mode 100644 class-71/data_input/home-task/authentication/session.php
+ create mode 100644 class-71/data_input/home-task/create.php
+ create mode 100644 class-71/data_input/home-task/files/student.class.php
+ create mode 100644 class-71/data_input/home-task/files/student.csv
+ create mode 100644 class-71/data_input/home-task/list.php
+ create mode 100644 class-71/data_input/home-task/search.php
+ create mode 100644 class-72 php-mailer, composer setup/class-72 php-mailer, composer setup/composer.json
+ create mode 100644 class-72 php-mailer, composer setup/class-72 php-mailer, composer setup/composer.lock
+ create mode 100644 class-72 php-mailer, composer setup/class-72 php-mailer, composer setup/composer.zip
+ create mode 100644 class-72 php-mailer, composer setup/class-72 php-mailer, composer setup/form-old-value.php
+ create mode 100644 class-72 php-mailer, composer setup/class-72 php-mailer, composer setup/phpinfo.php
+ create mode 100644 class-72 php-mailer, composer setup/class-72 php-mailer, composer setup/send-mail.php
+ create mode 100644 class-72 php-mailer, composer setup/class-72 php-mailer, composer setup/vendor/autoload.php
+ create mode 100644 class-72 php-mailer, composer setup/class-72 php-mailer, composer setup/vendor/composer/ClassLoader.php
+ create mode 100644 class-72 php-mailer, composer setup/class-72 php-mailer, composer setup/vendor/composer/InstalledVersions.php
+ create mode 100644 class-72 php-mailer, composer setup/class-72 php-mailer, composer setup/vendor/composer/LICENSE
+ create mode 100644 class-72 php-mailer, composer setup/class-72 php-mailer, composer setup/vendor/composer/autoload_classmap.php
+ create mode 100644 class-72 php-mailer, composer setup/class-72 php-mailer, composer setup/vendor/composer/autoload_namespaces.php
+ create mode 100644 class-72 php-mailer, composer setup/class-72 php-mailer, composer setup/vendor/composer/autoload_psr4.php
+ create mode 100644 class-72 php-mailer, composer setup/class-72 php-mailer, composer setup/vendor/composer/autoload_real.php
+ create mode 100644 class-72 php-mailer, composer setup/class-72 php-mailer, composer setup/vendor/composer/autoload_static.php
+ create mode 100644 class-72 php-mailer, composer setup/class-72 php-mailer, composer setup/vendor/composer/installed.json
+ create mode 100644 class-72 php-mailer, composer setup/class-72 php-mailer, composer setup/vendor/composer/installed.php
+ create mode 100644 class-72 php-mailer, composer setup/class-72 php-mailer, composer setup/vendor/composer/platform_check.php
+ create mode 160000 class-72 php-mailer, composer setup/class-72 php-mailer, composer setup/vendor/phpmailer/phpmailer
+ create mode 100644 class-73.zip
+ create mode 100644 class-73/error/error.log
+ create mode 100644 class-73/error/error.php
+ create mode 100644 class-73/loging-page/dashboard.php
+ create mode 100644 class-73/loging-page/login.php
+ create mode 100644 class-73/loging-page/logout.php
+ create mode 100644 class-73/loging-page/report.php
+ create mode 100644 class-73/session/another-page.php
+ create mode 100644 class-73/session/session.php
+ create mode 100644 class-74/composer.json
+ create mode 100644 class-74/composer.lock
+ create mode 100644 class-74/email.php
+ create mode 100644 class-74/send-mail.php
+ create mode 100644 class-74/vendor/autoload.php
+ create mode 100644 class-74/vendor/composer/ClassLoader.php
+ create mode 100644 class-74/vendor/composer/InstalledVersions.php
+ create mode 100644 class-74/vendor/composer/LICENSE
+ create mode 100644 class-74/vendor/composer/autoload_classmap.php
+ create mode 100644 class-74/vendor/composer/autoload_namespaces.php
+ create mode 100644 class-74/vendor/composer/autoload_psr4.php
+ create mode 100644 class-74/vendor/composer/autoload_real.php
+ create mode 100644 class-74/vendor/composer/autoload_static.php
+ create mode 100644 class-74/vendor/composer/installed.json
+ create mode 100644 class-74/vendor/composer/installed.php
+ create mode 100644 class-74/vendor/composer/platform_check.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/COMMITMENT
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/LICENSE
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/README.md
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/SECURITY.md
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/SMTPUTF8.md
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/VERSION
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/composer.json
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/get_oauth_token.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-af.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-ar.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-as.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-az.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-ba.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-be.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-bg.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-bn.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-ca.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-cs.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-da.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-de.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-el.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-eo.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-es.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-et.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-fa.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-fi.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-fo.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-fr.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-gl.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-he.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-hi.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-hr.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-hu.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-hy.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-id.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-it.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-ja.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-ka.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-ko.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-ku.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-lt.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-lv.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-mg.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-mn.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-ms.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-nb.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-nl.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-pl.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-pt.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-pt_br.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-ro.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-ru.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-si.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-sk.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-sl.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-sr.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-sr_latn.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-sv.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-tl.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-tr.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-uk.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-ur.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-vi.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-zh.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/language/phpmailer.lang-zh_cn.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/src/DSNConfigurator.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/src/Exception.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/src/OAuth.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/src/OAuthTokenProvider.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/src/PHPMailer.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/src/POP3.php
+ create mode 100644 class-74/vendor/phpmailer/phpmailer/src/SMTP.php
+ create mode 100644 classs-74/create-table.txt
+ create mode 100644 composer/composer.json
+ create mode 100644 composer/composer.lock
+ create mode 100644 composer/vendor/autoload.php
+ create mode 100644 composer/vendor/composer/ClassLoader.php
+ create mode 100644 composer/vendor/composer/InstalledVersions.php
+ create mode 100644 composer/vendor/composer/LICENSE
+ create mode 100644 composer/vendor/composer/autoload_classmap.php
+ create mode 100644 composer/vendor/composer/autoload_namespaces.php
+ create mode 100644 composer/vendor/composer/autoload_psr4.php
+ create mode 100644 composer/vendor/composer/autoload_real.php
+ create mode 100644 composer/vendor/composer/autoload_static.php
+ create mode 100644 composer/vendor/composer/installed.json
+ create mode 100644 composer/vendor/composer/installed.php
+ create mode 100644 composer/vendor/composer/platform_check.php
+ create mode 160000 composer/vendor/phpmailer/phpmailer
+ create mode 100644 for_exam/array_country.php
+ create mode 100644 for_exam/checkbox.php
+ create mode 100644 for_exam/factorial.php
+ create mode 100644 for_exam/largest_number.php
+ create mode 100644 for_exam/prime_number.php
+ create mode 100644 for_exam/student_grade.php
+ create mode 100644 for_exam/student_result.php
+
+B-8@DESKTOP-N7LKD4E MINGW64 /F/php/xampp/htdocs (master)
+$ git  status
+On branch master
+nothing to commit, working tree clean
+
+B-8@DESKTOP-N7LKD4E MINGW64 /F/php/xampp/htdocs (master)
+$ git branch -M main
+
+B-8@DESKTOP-N7LKD4E MINGW64 /F/php/xampp/htdocs (main)
+$ git remote add origin https://github.com/Fahim-Git-01/class-75.git
+
+B-8@DESKTOP-N7LKD4E MINGW64 /F/php/xampp/htdocs (main)
+$ git push -u origin main
+remote: Permission to Fahim-Git-01/class-75.git denied to MeghlaCloudy.
+fatal: unable to access 'https://github.com/Fahim-Git-01/class-75.git/': The requested URL returned error: 403
+
+B-8@DESKTOP-N7LKD4E MINGW64 /F/php/xampp/htdocs (main)
+$ git config --global user.name "Fahim-Git-01"
+
+B-8@DESKTOP-N7LKD4E MINGW64 /F/php/xampp/htdocs (main)
+$ git config --global user.email "faysalhossan191998@gmail.com"
+
+B-8@DESKTOP-N7LKD4E MINGW64 /F/php/xampp/htdocs (main)
+$ git config user.name
+Fahim-Git-01
+
+B-8@DESKTOP-N7LKD4E MINGW64 /F/php/xampp/htdocs (main)
+$ git push --u origin main
+error: unknown option `u'
+usage: git push [<options>] [<repository> [<refspec>...]]
+
+    -v, --[no-]verbose    be more verbose
+    -q, --[no-]quiet      be more quiet
+    --[no-]repo <repository>
+                          repository
+    --[no-]all            push all branches
+    --[no-]branches       alias of --all
+    --[no-]mirror         mirror all refs
+    -d, --[no-]delete     delete refs
+    --[no-]tags           push tags (can't be used with --all or --branches or --mirror)
+    -n, --[no-]dry-run    dry run
+    --[no-]porcelain      machine-readable output
+    -f, --[no-]force      force updates
+    --[no-]force-with-lease[=<refname>:<expect>]
+                          require old value of ref to be at this value
+    --[no-]force-if-includes
+                          require remote updates to be integrated locally
+    --[no-]recurse-submodules (check|on-demand|no)
+                          control recursive pushing of submodules
+    --[no-]thin           use thin pack
+    --[no-]receive-pack <receive-pack>
+                          receive pack program
+    --[no-]exec <receive-pack>
+                          receive pack program
+    -u, --[no-]set-upstream
+                          set upstream for git pull/status
+    --[no-]progress       force progress reporting
+    --[no-]prune          prune locally removed refs
+    --no-verify           bypass pre-push hook
+    --verify              opposite of --no-verify
+    --[no-]follow-tags    push missing but relevant tags
+    --[no-]signed[=(yes|no|if-asked)]
+                          GPG sign the push
+    --[no-]atomic         request atomic transaction on remote side
+    -o, --[no-]push-option <server-specific>
+                          option to transmit
+    -4, --ipv4            use IPv4 addresses only
+    -6, --ipv6            use IPv6 addresses only
+
+
+B-8@DESKTOP-N7LKD4E MINGW64 /F/php/xampp/htdocs (main)
+$ ^C
+
+B-8@DESKTOP-N7LKD4E MINGW64 /F/php/xampp/htdocs (main)
+$  git push -u origin main
+info: please complete authentication in your browser...
+Enumerating objects: 228, done.
+Counting objects: 100% (228/228), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (214/214), done.
+Writing objects: 100% (228/228), 32.13 MiB | 6.86 MiB/s, done.
+Total 228 (delta 26), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (26/26), done.
+To https://github.com/Fahim-Git-01/class-75.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+
+B-8@DESKTOP-N7LKD4E MINGW64 /F/php/xampp/htdocs (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+B-8@DESKTOP-N7LKD4E MINGW64 /F/php/xampp/htdocs (main)
+$ git add.
+git: 'add.' is not a git command. See 'git --help'.
+
+The most similar command is
+        add
+
+B-8@DESKTOP-N7LKD4E MINGW64 /F/php/xampp/htdocs (main)
+$ git push
+Everything up-to-date
+
+B-8@DESKTOP-N7LKD4E MINGW64 /F/php/xampp/htdocs (main)
+$
