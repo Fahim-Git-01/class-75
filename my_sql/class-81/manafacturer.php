@@ -8,7 +8,7 @@
 </head>
 <?php
 require_once "db-config.php";
-$result = $db->query("select * from    manufacture");
+$result = $db->query("select * fro manufacture");
 if ($result) {
     $mfg = $result->fetch_all(MYSQLI_ASSOC);
     echo "<pre>";
