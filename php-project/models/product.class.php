@@ -1,0 +1,13 @@
+<?php 
+$product = Product::allproduct
+
+
+
+
+
+
+
+
+
+
+?>

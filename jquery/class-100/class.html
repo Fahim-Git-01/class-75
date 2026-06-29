@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Class</title>
+    <style>
+        .red{
+            color: red
+        }
+        .font{
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+    </style>
+</head>
+<body>
+    <p>Paragraph 1</p>
+    <p>Paragraph 2</p>
+    <p>Paragraph 3</p>
+    <p>Paragraph 4</p>
+    <p>Paragraph 5</p>
+    <p>Paragraph 6</p>
+    <button class="add-class color: red">Red Text</button>
+    <button class="remove-class">Back Text</button>
+    <button class="toggle-class">Change Text</button>
+    <script src="jquery-4.0.0.min.js"></script>
+    <script>
+        $(".add-class").click(()=>{
+            $("p:nth-child(odd)").addClass("red font");
+        });
+
+         $(".remove-class").click(()=>{
+            $("p:nth-child(odd)").removeClass("red font");
+        });
+
+         $(".toggle-class").click(()=>{
+            $("p:nth-child(odd)").toggleClass("red font");
+        });
+
+        console.log($("p:nth-child(2)".hasClass("red")))
+
+    </script>
+</body>
+</html>

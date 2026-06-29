@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <input type="password" name="input" data-price="1000">
+    <button >Show/Hide</button>
+
+    <script src="jquery-4.0.0.min.js"></script>
+    <script>
+        // $('input').attr('name','username');
+        // let inputAttr = $('input').attr('type');
+        // console.log(inputAttr);
+        // $('input').attr({
+        //     'name'   : 'username',
+        //     'title'  : 'Enter your Name',
+        //     'value'  : 'Hello Tclk',
+        //     'data-price' : '2000'
+        // });
+
+        // $('input').data('price', '500');
+        // console.log($('input').data('price'));
+       
+// $(document).ready(function () {
+//     $("#togglePassword").click(function () {
+//         let input = $("#password");
+
+//         if (input.attr("type") === "password") {
+//             input.attr("type", "text");
+//             $(this).text("Hide");
+//         } else {
+//             input.attr("type", "password");
+//             $(this).text("Show");
+//         }
+//     });
+// });
+$('button').click(function(){
+    // let inputAttr = $('input').attr('type');
+    // console.log(inputAttr);
+  let input = $('input');
+  let inputType = input.attr('type');
+
+  if(inputType == "password"){
+    input.attr('type', 'text');
+  }else{
+    input.attr('type', 'password');
+  }
+  
+})
+
+
+
+
+
+    </script>
+    
+</body>
+</html>
